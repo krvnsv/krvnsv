@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Aspiring Full Stack Developer)`**
 
-I'm a computer science university student with a passion to learn everything about this programming world - code, unix, linux, theory. And all the while, teaching myself Game development with Godot and Blockchain and Interpreter development with Go, whicn currently got overshadowed by my desire to excel in Python and web development. *More comming soon...* 😉
+I'm a computer science university student with a passion to learn everything about this programming world - code, unix, linux, theory. And all the while, teaching myself Game Development with Godot and Blockchain and Interpreter Development with Go, which currently got overshadowed by my desire to excel in Python and Web Development. *More comming soon...* 😉
 
 ---
 
