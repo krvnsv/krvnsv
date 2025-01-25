@@ -1,4 +1,4 @@
-# 🗿 Kirill Krivonosov
+# 🗿 Kirill K
 
 **`Digital Craftsman (Aspiring Full Stack Developer)`**
 
@@ -28,7 +28,7 @@ I'm a computer science university student with a passion to learn everything abo
 
 ### 📊 Stats
 
-![Krvnsv's GitHub stats](https://github-readme-stats.vercel.app/api?username=krvnsv&show_icons=true&theme=gruvbox)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=krvnsv&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
