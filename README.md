@@ -32,8 +32,20 @@ I'm a computer science student with a passion to learn everything about this pro
 
 ### 📊 Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=krvnsv&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=krvnsv&show_icons=true&theme=gruvbox" height="205px"/>
+    </td>
+    <td rowspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krvnsv&hide=java,html,css&theme=gruvbox" height="400px"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=krvnsv&theme=gruvbox&border_radius=4.5" height="194px"/>
+    </td>
+  </tr>
+</table>
 
 #
